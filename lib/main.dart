@@ -49,7 +49,7 @@ class MainApp extends StatelessWidget {
 
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
-                crossAxisAlignment: CrossAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Icon(Icons.home, color: Colors.blue, size: 40),
                   Icon(Icons.star, color: Colors.amber, size: 40),
